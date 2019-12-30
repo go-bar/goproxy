@@ -1,0 +1,2 @@
+# goproxy
+My custom goproxy
